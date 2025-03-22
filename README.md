@@ -1,3 +1,11 @@
+# vocleair
+A react native app controller of esp32 assembled air purifier.
+
+![IMG_6889](https://github.com/user-attachments/assets/b5fdaeeb-062c-4143-bb50-678b86f43735)
+
+![IMG_6890](https://github.com/user-attachments/assets/fdc5349d-cfce-4119-be33-cdad8d3f63eb)
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
